@@ -1,1 +1,1 @@
-# sorting-algorithm-vidsual
+# sorting-algorithm-visual
